@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model files (IMPORTANT - DO NOT PUSH TRAINED MODELS)
+models/
+*.pkl
+
+# Data files (optional but recommended if dataset is large)
+# data/
+# *.xlsx
+# *.csv
+
+# Environment variables
+.env
+
+# FastAPI / Uvicorn cache
+*.sqlite3
+
+# pytest cache
+.pytest_cache/
+
+# coverage reports
+htmlcov/
+.coverage
