@@ -1,5 +1,18 @@
 # 📊 Sales Forecasting System (End-to-End Time Series ML + FastAPI)
 
+<!--
+| Dashboard                                  | API                                        | Output                                     |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| ![](assets/sales-forecasting-project1.png) | ![](assets/sales-forecasting-project2.png) | ![](assets/sales-forecasting-project3.png) | -->
+
+[![Watch the video](https://www.youtube.com/watch?v=XDALeNalfW8&feature=youtu.be)](https://www.youtube.com/watch?v=XDALeNalfW8&feature=youtu.be)
+
+<img src="assets/sales-forecasting-project1.png" width="600">
+
+<img src="assets/sales-forecasting-project2.png" width="600">
+
+<img src="assets/sales-forecasting-project3.png" width="600">
+
 ## 🏷️ Title, Introduction & Links
 
 **📌 Project Name**
@@ -20,6 +33,8 @@ An end-to-end machine learning system that predicts next 8 weeks of sales for ea
 
 > 📊 API Documentation (Swagger UI):
 > https://sales-forecasting-project-vpbp.onrender.com/docs
+
+> Demo Video: https://youtu.be/XDALeNalfW8
 
 ---
 
