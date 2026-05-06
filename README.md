@@ -12,11 +12,35 @@ An end-to-end machine learning system that predicts next 8 weeks of sales for ea
 
 ## 🔗 Important Links
 
-📂 GitHub Repository: https://github.com/your-username/sales-forecasting
+> 📂 GitHub Repository:
+> https://github.com/rojanagunoori/sales_forecasting_project.git
 
-📊 API Docs (Swagger): http://127.0.0.1:8000/docs
+> 🚀 Live Deployed API (Render):
+> https://sales-forecasting-project-vpbp.onrender.com
 
-🚀 Local API: http://127.0.0.1:8000
+> 📊 API Documentation (Swagger UI):
+> https://sales-forecasting-project-vpbp.onrender.com/docs
+
+---
+
+## 🗺️ Supported States
+
+The forecasting system is trained and tested on all major US states present in the dataset.
+
+### 📍 List of States Covered
+
+The model supports state-wise forecasting for the following regions:
+
+```bash
+Alabama, Arizona, Arkansas, California, Colorado, Connecticut,
+Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota,
+Mississippi, Missouri, Nebraska, Nevada, New Hampshire, New Mexico,
+New York, North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania,
+Rhode Island, South Carolina, South Dakota, Tennessee, Texas,
+Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+Wyoming.............
+```
 
 ---
 
